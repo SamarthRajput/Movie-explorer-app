@@ -13,7 +13,7 @@ export const FrontPage = () => {
     }, []);
 
     const filteredMovies = movies.filter(movie => 
-        movie.title[0].toLowerCase().includes(filter)
+        movie.title.toLowerCase().includes(filter)
     )
 
     return (
