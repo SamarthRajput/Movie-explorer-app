@@ -9,7 +9,7 @@ In the Frontend Folder:
 2. then run the command npm run dev to start the frontend locally. 
 
 Tech Stack Used: 
-Frontend : React and Tailwind CSS
-Backend : Nodejs and Express.js
-Database : MongoDb ATLAS
-Input Validation: Zod
+- Frontend : React and Tailwind CSS
+- Backend : Nodejs and Express.js
+- Database : MongoDb ATLAS
+- Input Validation: Zod
